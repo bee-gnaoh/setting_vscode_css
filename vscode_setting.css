@@ -11,4 +11,5 @@
 
 .monaco-editor .margin {
 	padding-right: 10px; /* Adjust the padding as needed */
+	padding-left: 10px; /* Adjust the padding as needed */
 }
